@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.0",
   "esp32s3_url": "https://raw.githubusercontent.com/bmooooos/esp-hue-ota/main/ESP_Hue.bin",
   "esp32c6_url": "",
   "notes": "Test manifest",
